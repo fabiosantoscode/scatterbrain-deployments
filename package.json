@@ -1,0 +1,16 @@
+{
+  "name": "scatterbrain",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.js test/**/*.js"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^8.1.1",
+    "node-fetch": "^2.6.0"
+  }
+}
